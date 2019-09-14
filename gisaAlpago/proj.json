@@ -1,0 +1,6 @@
+{
+    "localhost": {
+        "url": "http://localhost:8088",
+        "folder": "C:/php"
+    }
+}
