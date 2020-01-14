@@ -22,23 +22,23 @@
 
 - <h3>구현 기능 소개</h3>
   - 메인 화면
-![기능5](http://112.149.7.38:8090/Final_Minimap/php/Alpago5.png)
+![기능5](http://myminimap.kr/kim/Alpago5.png)
   - 로그인
-![기능4](http://112.149.7.38:8090/Final_Minimap/php/Alpago4.png)
+![기능4](http://myminimap.kr/kim/Alpago4.png)
   - 회원가입
-![기능6](http://112.149.7.38:8090/Final_Minimap/php/Alpago6.png)
+![기능6](http://myminimap.kr/kim/Alpago6.png)
   - 실시간 문제 풀이
-![기능1](http://112.149.7.38:8090/Final_Minimap/php/Alpago1.png)
+![기능1](http://myminimap.kr/kim//Alpago1.png)
   - 기출 문제 다운로드 1
-![기능3](http://112.149.7.38:8090/Final_Minimap/php/Alpago3.png)
+![기능3](http://myminimap.kr/kim/Alpago3.png)
   - 기출 문제 다운로드 2
-![기능8](http://112.149.7.38:8090/Final_Minimap/php/Alpago8.png)
+![기능8](http://myminimap.kr/kim/Alpago8.png)
   - 관리자 페이지 실시간 문제 등록
-![기능2](http://112.149.7.38:8090/Final_Minimap/php/Alpago2.png)
+![기능2](http://myminimap.kr/kim/Alpago2.png)
   - 관리자 페이지 기출 문제 등록
-![기능7](http://112.149.7.38:8090/Final_Minimap/php/Alpago7.png)
+![기능7](http://myminimap.kr/kim/Alpago7.png)
   - 시연 동영상 <br>
-[![Video Label](http://112.149.7.38:8090/Final_Minimap/php/phpv.png)](https://youtu.be/lNHR6uD8R2o)
+[![Video Label](http://myminimap.kr/kim/phpv.png)](https://youtu.be/lNHR6uD8R2o)
 
 - 관련 PPT <br>
 [기사알파고 PPT 다운로드](http://112.149.7.38:8090/Final_Minimap/Download/alphago.jsp) 
