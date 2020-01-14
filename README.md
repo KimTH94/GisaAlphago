@@ -18,7 +18,7 @@
   - HTML, CSS, BootStrap, AJAX, JavaScript <br>
   
 - <h3>데이터베이스 설계</h3>
-![DB](http://http://myminimap.kr/kim/PHPDB.png)
+![DB](http://myminimap.kr/kim/PHPDB.png)
 
 - <h3>구현 기능 소개</h3>
   - 메인 화면
