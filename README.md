@@ -41,4 +41,4 @@
 [![Video Label](http://myminimap.kr/kim/phpv.png)](https://youtu.be/lNHR6uD8R2o)
 
 - 관련 PPT <br>
-[기사알파고 PPT 다운로드](http://112.149.7.38:8090/Final_Minimap/Download/alphago.jsp) 
+[기사알파고 PPT 다운로드](http://myminimap.kr/kim/p.pptx) 
